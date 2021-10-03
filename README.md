@@ -451,7 +451,7 @@ case 'covid_word':
 
 ## ```coffee ☕```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+- [`SAWERIA`](https://saweria.co/kurrtod)
 
 ## ```Thnaks To```
 
