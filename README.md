@@ -18,8 +18,8 @@
   <img src="https://telegra.ph/file/b4b9acfabf32f9e791178.jpg" /></>
 </p>
 
-- 👼 My name is KurrXd
-- 🗣️ I am 16 years old 
+- 👼 My name is Botz Indo
+- 🗣️ I am 15 years old 
 - 🔭 I am not programmer
 
 ## ```Connect with me```
